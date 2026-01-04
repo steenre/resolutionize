@@ -1,4 +1,6 @@
 psycopg-binary
+psycopg
+dj_database_url
 dotenv
 SQLAlchemy==2.0.44
 
